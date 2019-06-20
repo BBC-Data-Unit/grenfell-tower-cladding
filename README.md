@@ -6,7 +6,8 @@ In June 2019 **Dan Wainwright** [reported](https://www.bbc.co.uk/news/uk-england
 
 ## Get the data
 
-* Ministry of Housing, Communities & Local Government: [Building Safety Programme: monthly data release - May 2019](https://www.gov.uk/government/publications/building-safety-programme-monthly-data-release-may-2019)
+* Ministry of Housing, Communities & Local Government: [Building Safety Programme: monthly data release - May 2019](https://www.gov.uk/government/publications/building-safety-programme-monthly-data-release-may-2019) - [data cached here](https://github.com/BBC-Data-Unit/grenfell-tower-cladding/blob/master/acm2019.csv)
+* CSV: [analysis grouping together all categories those where work is yet to start – including those with a plan in place and those where the plan is unclear or being developed](https://github.com/BBC-Data-Unit/grenfell-tower-cladding/blob/master/acm2019a.csv)
 
 ## Quotes and interviews
 
